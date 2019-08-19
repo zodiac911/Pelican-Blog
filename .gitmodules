@@ -1,0 +1,6 @@
+[submodule "themes/elegant"]
+	path = themes/elegant
+	url = https://github.com/zodiac911/elegant
+[submodule "output"]
+	path = output
+	url = https://github.com/zodiac911/zodiac911.github.io
